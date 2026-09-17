@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.syckrech.app",
+        "sha256_cert_fingerprints": ["8B:7D:21:8C:2F:CE:3C:B9:5E:67:63:AC:F5:95:4B:BE:1D:62:2F:CB:FF:71:EE:36:61:80:5F:2E:F1:C4:2F:A1"]
+      }
+    }]
